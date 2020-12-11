@@ -56,13 +56,8 @@ Image | Caption
 ## References
 #### NIC Model
 [1] Vinyals, Oriol, et al. "Show and tell: A neural image caption generator." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.
+[2] Cyrus Rashtchian, Peter Young, Micah Hodosh, and Julia Hockenmaier. Collecting Image Annotations Using Amazon's Mechanical Turk. In Proceedings of the NAACL HLT 2010 Workshop on Creating Speech and Language Data with Amazon's Mechanical Turk.
+
+
 #### Data
 https://illinois.edu/fb/sec/1713398
-#### VGG16 Model
-https://github.com/fchollet/deep-learning-models
-#### Saved Model
-https://drive.google.com/drive/folders/1aukgi_3xtuRkcQGoyAaya5pP4aoDzl7r
-#### Code reference
-https://github.com/anuragmishracse/caption_generator
-
-You can find a detailed report in the Report folder.
